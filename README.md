@@ -1,5 +1,7 @@
 <div style="text-align: center;">
-  <img src="https://github.com/amilali/CrowdXfund/blob/main/img/black_logo.jpg" alt="CrowdXfund" style="border-radius: 50%;" width="500px">                     <img src="https://github.com/amilali/CrowdXfund/blob/main/img/circular%20dp.png" width="100px">
+     <img src="https://github.com/amilali/CrowdXfund/blob/main/img/circular%20dp.png" width="100px">
+
+  <img src="https://github.com/amilali/CrowdXfund/blob/main/img/black_logo.jpg" alt="CrowdXfund" style="border-radius: 50%;" width="700px">                                  
 </div>
 
 CrowdXfund is a revolutionary blockchain-based crowdfunding decentralized application (DApp) that empowers individuals and organizations to launch, manage, and participate in crowdfunding campaigns with unprecedented security, transparency, and efficiency.
