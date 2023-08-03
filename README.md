@@ -5,9 +5,8 @@
 CrowdXfund is a revolutionary blockchain-based crowdfunding decentralized application (DApp) that empowers individuals and organizations to launch, manage, and participate in crowdfunding campaigns with unprecedented security, transparency, and efficiency.
 
 ## Created By:
-<div style="text-align: center;">
-  <img src="https://github.com/amilali/CrowdXfund/blob/main/img/black_logo.jpg" alt="CrowdXfund" style="border-radius: 50%;">
-</div>
+
+  <img src="https://github.com/amilali/CrowdXfund/blob/main/img/dp.png" alt="CrowdXfund" style="border-radius: 50%; border: 1px solid black;" width="200">
 
 
 ## Getting Started
