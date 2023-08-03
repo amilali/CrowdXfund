@@ -46,7 +46,7 @@ We were highly inspired by the CryptoRelief initiative ([www.cryptorelief.in](ht
 - Hardhat
 
 ## To run the application locally
-- Fork the Project 
+- Fork & clone the Project 
 - run `npm install` to install all the dependencies
 - run `npm run dev` to run the application locally
 
