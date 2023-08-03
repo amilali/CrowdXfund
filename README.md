@@ -1,11 +1,12 @@
-# CrowdXfund
-Blockchain Based CrowdFunding Dapp
+<div style="text-align: center;">
+  <img src="https://github.com/amilali/CrowdXfund/blob/main/img/black_logo.jpg" alt="CrowdXfund" style="border-radius: 50%;" width="300px">
+</div>
 
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+CrowdXfund is a revolutionary blockchain-based crowdfunding decentralized application (DApp) that empowers individuals and organizations to launch, manage, and participate in crowdfunding campaigns with unprecedented security, transparency, and efficiency.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
