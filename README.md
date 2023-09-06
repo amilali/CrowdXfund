@@ -19,8 +19,7 @@ The major problems with the Current Crowdfunding Platforms that we wanted to sol
 We were highly inspired by the CryptoRelief initiative ([www.cryptorelief.in](https://www.cryptorelief.in))  which raised ~1 billion dollars for Covid Relief in India from the entire global community, in a highly transparent manner. 
 
 ## Detailed Report and PPT
-- A Detailed Report of the Project can be [found here](https://docs.google.com/#)
-- A Presentation on the Application can be [found here](https://docs.google.com/#)
+- A Presentation on the Application can be [found here](https://www.canva.com/design/DAFg68_JMJg/a6HygozKYh8H1NWTwuoUUg/edit?utm_content=DAFg68_JMJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Screenshots 
 #### Home Page :
